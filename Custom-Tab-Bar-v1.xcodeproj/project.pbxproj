@@ -11,6 +11,7 @@
 		4AC02CE0254F1DBB00E8AA21 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AC02CDF254F1DBB00E8AA21 /* ContentView.swift */; };
 		4AC02CE2254F1DBD00E8AA21 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AC02CE1254F1DBD00E8AA21 /* Assets.xcassets */; };
 		4AC02CE5254F1DBD00E8AA21 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AC02CE4254F1DBD00E8AA21 /* Preview Assets.xcassets */; };
+		4AC02CEE254F22E900E8AA21 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AC02CED254F22E900E8AA21 /* ViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		4AC02CE1254F1DBD00E8AA21 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4AC02CE4254F1DBD00E8AA21 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4AC02CE6254F1DBD00E8AA21 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4AC02CED254F22E900E8AA21 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				4AC02CDD254F1DBB00E8AA21 /* Custom_Tab_Bar_v1App.swift */,
 				4AC02CDF254F1DBB00E8AA21 /* ContentView.swift */,
+				4AC02CED254F22E900E8AA21 /* ViewModel.swift */,
 				4AC02CE1254F1DBD00E8AA21 /* Assets.xcassets */,
 				4AC02CE6254F1DBD00E8AA21 /* Info.plist */,
 				4AC02CE3254F1DBD00E8AA21 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4AC02CE0254F1DBB00E8AA21 /* ContentView.swift in Sources */,
+				4AC02CEE254F22E900E8AA21 /* ViewModel.swift in Sources */,
 				4AC02CDE254F1DBB00E8AA21 /* Custom_Tab_Bar_v1App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
